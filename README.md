@@ -7,7 +7,7 @@ I am an award-winning marketing executive and creativity enabler. I help develop
 <p align="left">
 <a href="https://influencer.dev/" title="influencer.dev"><img src="https://github.com/zevireinitz/zevireinitz/assets/92805730/acaf7b62-7f22-4d04-987c-1cc16b9327c4" alt="I show developers how to do marketing" width="100px" align="left" /></a>
 <a href="https://influencer.dev/" title="The dev-centric influencer marketplace"><strong>influencer.dev</strong></a>
-<br/> I'm building the first dev-centric influencer marketplace so that dev-centric brands can find the trusted voices they are looking for to promote their dev tools in a trusted, authentic way. 
+<br/> I'm building the first dev-influencer marketplace so that dev-centric brands can find the trusted voices they are looking for to promote their products and tools in a trusted, authentic way. 100% open source.
 
 </p> <br/> <br/>
 <p align="left">
