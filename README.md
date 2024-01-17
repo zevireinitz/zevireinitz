@@ -5,14 +5,13 @@ I am an award-winning marketing executive and creativity enabler. I help develop
 ### Resources I'm building for developers
 <!-- FEATURED PROJECTS:START -->
 <p align="left">
-<a href="https://influencer.dev/" title="influencer.dev"><img src="https://substackcdn.com/image/fetch/w_1360,c_limit,f_webp,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c98039c-b229-478a-ac7e-727a524802e5_600x600.png" alt="I show developers how to do marketing" width="100px" align="left" /></a>
+<a href="https://influencer.dev/" title="influencer.dev"><img src="https://github.com/zevireinitz/zevireinitz/assets/92805730/acaf7b62-7f22-4d04-987c-1cc16b9327c4" alt="I show developers how to do marketing" width="100px" align="left" /></a>
 <a href="https://influencer.dev/" title="The dev-centric influencer marketplace"><strong>influencer.dev</strong></a>
 <br/> I'm building the first dev-centric influencer marketplace so that dev-centric brands can find the trusted voices they are looking for to promote their dev tools in a trusted, authentic way. 
 
 </p> <br/> <br/>
-
 <p align="left">
-<a href="https://devscandomarketing.substack.com/" title="Share your Docker Compose app logs remotely"><img src="https://substackcdn.com/image/fetch/w_1360,c_limit,f_webp,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c98039c-b229-478a-ac7e-727a524802e5_600x600.png" alt="I show developers how to do marketing" width="100px" align="left" /></a>
+<a href="https://devscandomarketing.substack.com/" title="Share your Docker Compose app logs remotely"><img src="https://github.com/zevireinitz/zevireinitz/assets/92805730/8673d9be-525d-4abb-8f56-8e752a7319f1" alt="I show developers how to do marketing" width="100px" align="left" /></a>
 <a href="https://devscandomarketing.substack.com/" title="I teach developers how to do marketing"><strong>I teach developers how to do marketing</strong></a>
 <br/> I show developers how to get better at marketing so they can be more successful and hit their goals. Learn how to develop a personal brand, improve your content creation and distribution, attract people to your projects, and more. Practical insights & actionable advice. Zero fluff.
 
