@@ -1,6 +1,6 @@
 ### Hi. I'm Zevi 👋
 
-I am an award-winning marketing executive and creativity enabler. I help developers and dev-centric companies grow their brand, create great contnet, and build value-centric communities for their target audience. I am currently head of marketing at Livecycle.
+I am an award-winning marketing executive. I enable creativity by helping developers and dev-centric companies grow their brand, create great contnet, and build value-centric communities for their target audience. I am currently head of marketing at [Livecycle](https://github.com/livecycle).
 <br/>
 ### Resources I'm building for developers
 <!-- FEATURED PROJECTS:START -->
