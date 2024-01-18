@@ -20,14 +20,13 @@ I am an award-winning marketing executive and creativity enabler. I help develop
 
 ### Some of my recent awards
 
-- Most Valuable Marketer (Hackernoon, 2022)
-- The Greatest Storyteller (Hackernoon, 2022)
-- Contributor of the Year (Hackernoon, 2022)
+- Most Valuable Marketer ([Hackernoon](https://hackernoon.com/meet-noonies-2022-3x-winner-zevi-reinitz-most-valuable-marketer-and-greatest-storyteller), 2022)
+- The Greatest Storyteller ([Hackernoon](https://hackernoon.com/meet-noonies-2022-3x-winner-zevi-reinitz-most-valuable-marketer-and-greatest-storyteller), 2022)
+- Contributor of the Year ([Hackernoon](https://hackernoon.com/meet-noonies-2022-3x-winner-zevi-reinitz-most-valuable-marketer-and-greatest-storyteller), 2022)
 - Top Author - JavaScript (Dev.to, 2023)
-- Top Author - React (Dev.to, 2023)
-- Top Author - Next.js (Dev.to, 2023)
-- Top Contributor (DZone, 2022)
-- Featured Product (TechCrunch 2018)
+- Top Author - React ([Dev.to](https://dev.to/zevireinitz), 2023)
+- Top Author - Next.js ([Dev.to](https://dev.to/zevireinitz), 2023)
+- Top DevTool ([DevHunt](https://devhunt.org/tool/livecycle-docker-extension), 2023)
 - Forbes Impact List (Forbes, 2021)
 
 
